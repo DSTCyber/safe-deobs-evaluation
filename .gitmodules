@@ -1,0 +1,6 @@
+[submodule "javascript-malware-collection"]
+	path = javascript-malware-collection
+	url = https://github.com/HynekPetrak/javascript-malware-collection
+[submodule "safe-deobs"]
+	path = safe-deobs
+	url = https://github.com/DSTCyber/safe-deobs
